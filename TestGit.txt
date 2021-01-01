@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 There is a test file gor git test..
 
 dfgdfg
+||||||| af03e86
+There is a test file gor git test..
+=======
+There is a test file gor git test..    gfhfhg
+>>>>>>> 2ae10a1b4949b9d0d44fd1e1d77a6acdcea0fb6d
